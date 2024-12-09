@@ -12,7 +12,7 @@ async def start(bot: Client, msg: Message):
         photo="https://envs.sh/Amn.jpg",
         caption=f"""**  ʜᴇʏ  {msg.from_user.mention}  ✤,
 
-✪ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ˹ ʀɪsʜᴜ ʀᴇᴀᴄᴛɪᴏɴ ʙᴏᴛ ✪
+✪ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ˹ ʀᴀᴅʜᴇ ʀᴇᴀᴄᴛɪᴏɴ ʙᴏᴛ ✪
  
  ❍ • ʙsᴅᴋ ᴋᴇᴛᴀɴɪ ʙᴀʀʀ ʀᴇᴘᴏ ʟᴇɢᴀ ◉‿◉ •
  
@@ -22,13 +22,13 @@ async def start(bot: Client, msg: Message):
  
  ❍ • ᴀᴜʀ ʀᴇᴘᴏs ᴛᴏ ɴᴀʜɪ ᴍɪʟᴇɢᴀ ʙᴇᴛᴀ ⊂◉‿◉ •
  
- ❍ • ᴀɢʀ ᴄʜᴀʜɪʏᴇ ᴛᴏ Rɪsʜᴜ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟɴᴀ ᴘᴀᴅᴇɢᴀ •
+ ❍ • ᴀɢʀ ᴄʜᴀʜɪʏᴇ ᴛᴏ ʀᴀᴅʜᴇ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟɴᴀ ᴘᴀᴅᴇɢᴀ •
  
  ❍ • ʀᴀᴅʜᴇ ʀᴀᴅʜᴇ • ** """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="❍ 𝐀ᴅᴅ 𝐌ᴇ 𝐘ᴏᴜʀ 𝐆ʀᴏᴜᴘ ❍", url="https://t.me/ReactionByBot?startgroup=true")
+                    InlineKeyboardButton(text="❍ 𝐀ᴅᴅ 𝐌ᴇ 𝐘ᴏᴜʀ 𝐆ʀᴏᴜᴘ ❍", url="https://t.me/@REACTION7_ROBOT?startgroup=true")
                 ],
                 [
                     InlineKeyboardButton(text="❍ 𝐒ᴛʀɪɴɢ ❍", url="https://t.me/rishustringbot")
