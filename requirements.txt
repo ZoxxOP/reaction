@@ -7,6 +7,7 @@ dnspython
 tgcrypto==1.2.2
 asyncio
 python-dotenv
+pyrogram==1.4.16
 pycgi
 apscheduler
 Flask
